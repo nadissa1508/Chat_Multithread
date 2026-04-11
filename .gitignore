@@ -7,6 +7,13 @@
 *.obj
 *.elf
 
+# Windows download metadata
+*:Zone.Identifier
+
+# Local build outputs
+/client/client
+/server/server
+
 # Linker output
 *.ilk
 *.map
